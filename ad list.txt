@@ -86,7 +86,6 @@ add address=127.0.0.1 name=trk.pinterest.com
 add address=127.0.0.1 name=widgets.pinterest.com
 add address=127.0.0.1 name=events.reddit.com
 add address=127.0.0.1 name=events.redditmedia.com
-add address=127.0.0.1 name=ads.youtube.com
 add address=127.0.0.1 name=ads-api.tiktok.com
 add address=127.0.0.1 name=analytics.tiktok.com
 add address=127.0.0.1 name=ads-sg.tiktok.com
@@ -215,8 +214,6 @@ add address=127.0.0.1 name=torvind.com comment=ForFasterLoading
 add address=127.0.0.1 name=jkhad.com comment=ForFasterLoading
 add address=127.0.0.1 name=misdoers.com comment=ForFasterLoading
 add address=127.0.0.1 name=cm.adskeeper.co.uk comment=ForFasterLoading
-add address=127.0.0.1 name=ad.youtube.com
-add address=127.0.0.1 name=ads.youtube.com
 add address=127.0.0.1 name=akamaiedge.net
 add address=127.0.0.1 name=akamaitechnologies.com
 add address=127.0.0.1 name=analytic-google.com
@@ -232,8 +229,6 @@ add address=127.0.0.1 name=s.innovid.com
 add address=127.0.0.1 name=secure-ds.serving-sys.com
 add address=127.0.0.1 name=www-googletagmanager.l.google.com
 add address=127.0.0.1 name=www.analytic-google.com
-add address=127.0.0.1 name=www.youtube-nocookie.com
-add address=127.0.0.1 name=youtube-nocookie.com
 add address=127.0.0.1 name=ads1.msads.net
 add address=127.0.0.1 name=ads2.msads.net
 add address=127.0.0.1 name=a.ads2.msads.net
@@ -4130,7 +4125,6 @@ add address=127.0.0.1 name=s28.sitemeter.com
 add address=127.0.0.1 name=s290.mxcdn.net
 add address=127.0.0.1 name=s29.sitemeter.com
 add address=127.0.0.1 name=s2trade.mtxcapital.com
-add address=127.0.0.1 name=s2.youtube.com
 add address=127.0.0.1 name=s30.sitemeter.com
 add address=127.0.0.1 name=s31.sitemeter.com
 add address=127.0.0.1 name=s32.sitemeter.com
@@ -6526,7 +6520,6 @@ add address=127.0.0.1 name=wmgmulti.112.2o7.net
 add address=127.0.0.1 name=workopolis.122.2o7.net
 add address=127.0.0.1 name=wpni.112.2o7.net
 add address=127.0.0.1 name=xhealthmobiletools.112.2o7.net
-add address=127.0.0.1 name=youtube.112.2o7.net
 add address=127.0.0.1 name=yrkeve.112.2o7.net
 add address=127.0.0.1 name=ziffdavisglobal.112.2o7.net
 add address=127.0.0.1 name=ziffdavispennyarcade.112.2o7.net
