@@ -183,7 +183,6 @@ add address=127.0.0.1 name=vk.com comment=ForFasterLoading
 add address=127.0.0.1 name=userapi.com comment=ForFasterLoading
 add address=127.0.0.1 name=ya.ru comment=ForFasterLoading
 add address=127.0.0.1 name=yandex.ua comment=ForFasterLoading
-add address=127.0.0.1 name=analytics.google.com comment=ForFasterLoading
 add address=127.0.0.1 name=ajax.googleapis.com comment=ForFasterLoading
 add address=127.0.0.1 name=rotor.overclockers.ru comment=ForFasterLoading
 add address=127.0.0.1 name=a5.overclockers.ua comment=ForFasterLoading
