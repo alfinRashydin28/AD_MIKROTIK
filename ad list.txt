@@ -66,7 +66,8 @@ add address=127.0.0.1 name=w1.luckyorange.com
 add address=127.0.0.1 name=upload.luckyorange.net
 add address=127.0.0.1 name=cs.luckyorange.net
 add address=127.0.0.1 name=settings.luckyorange.net
-add address=127.0.0.1 name=stats.wp.comadd address=127.0.0.1 name=notify.bugsnag.com
+add address=127.0.0.1 name=stats.wp.com
+add address=127.0.0.1 name=notify.bugsnag.com
 add address=127.0.0.1 name=sessions.bugsnag.com
 add address=127.0.0.1 name=api.bugsnag.com
 add address=127.0.0.1 name=app.bugsnag.com
@@ -85,7 +86,6 @@ add address=127.0.0.1 name=trk.pinterest.com
 add address=127.0.0.1 name=widgets.pinterest.com
 add address=127.0.0.1 name=events.reddit.com
 add address=127.0.0.1 name=events.redditmedia.com
-add address=127.0.0.1 name=ads.youtube.com
 add address=127.0.0.1 name=ads-api.tiktok.com
 add address=127.0.0.1 name=analytics.tiktok.com
 add address=127.0.0.1 name=ads-sg.tiktok.com
