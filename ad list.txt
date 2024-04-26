@@ -86,6 +86,7 @@ add address=127.0.0.1 name=trk.pinterest.com
 add address=127.0.0.1 name=widgets.pinterest.com
 add address=127.0.0.1 name=events.reddit.com
 add address=127.0.0.1 name=events.redditmedia.com
+add address=127.0.0.1 name=ads.youtube.com
 add address=127.0.0.1 name=ads-api.tiktok.com
 add address=127.0.0.1 name=analytics.tiktok.com
 add address=127.0.0.1 name=ads-sg.tiktok.com
