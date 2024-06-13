@@ -20,7 +20,6 @@ add address=127.0.0.1 name=adtago.s3.amazonaws.com
 add address=127.0.0.1 name=analyticsengine.s3.amazonaws.com
 add address=127.0.0.1 name=analytics.s3.amazonaws.com
 add address=127.0.0.1 name=advice-ads.s3.amazonaws.com
-add address=127.0.0.1 name=advertising-api-eu.amazon.com
 add address=127.0.0.1 name=pagead2.googlesyndication.com
 add address=127.0.0.1 name=adservice.google.com
 add address=127.0.0.1 name=pagead2.googleadservices.com
@@ -83,7 +82,6 @@ add address=127.0.0.1 name=ads.pinterest.com
 add address=127.0.0.1 name=log.pinterest.com
 add address=127.0.0.1 name=analytics.pinterest.com
 add address=127.0.0.1 name=trk.pinterest.com
-add address=127.0.0.1 name=widgets.pinterest.com
 add address=127.0.0.1 name=events.reddit.com
 add address=127.0.0.1 name=events.redditmedia.com
 add address=127.0.0.1 name=ads.youtube.com
@@ -99,7 +97,6 @@ add address=127.0.0.1 name=analytics.yahoo.com
 add address=127.0.0.1 name=geo.yahoo.com
 add address=127.0.0.1 name=udc.yahoo.com
 add address=127.0.0.1 name=udcm.yahoo.com
-add address=127.0.0.1 name=advertising.yahoo.com
 add address=127.0.0.1 name=analytics.query.yahoo.com
 add address=127.0.0.1 name=partnerads.ysm.yahoo.com
 add address=127.0.0.1 name=log.fc.yahoo.com
@@ -109,7 +106,6 @@ add address=127.0.0.1 name=extmaps-api.yandex.net
 add address=127.0.0.1 name=appmetrica.yandex.ru
 add address=127.0.0.1 name=adfstat.yandex.ru
 add address=127.0.0.1 name=metrika.yandex.ru
-add address=127.0.0.1 name=advertising.yandex.ru
 add address=127.0.0.1 name=offerwall.yandex.net
 add address=127.0.0.1 name=adfox.yandex.ru
 add address=127.0.0.1 name=auction.unityads.unity3d.com
@@ -144,7 +140,6 @@ add address=127.0.0.1 name=smetrics.samsung.com
 add address=127.0.0.1 name=nmetrics.samsung.com
 add address=127.0.0.1 name=samsung-com.112.2o7.net
 add address=127.0.0.1 name=analytics-api.samsunghealthcn.com
-add address=127.0.0.1 name=advertising.apple.com
 add address=127.0.0.1 name=iadsdk.apple.com
 add address=127.0.0.1 name=metrics.icloud.com
 add address=127.0.0.1 name=metrics.mzstatic.com
