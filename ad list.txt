@@ -24,7 +24,7 @@ add address=127.0.0.1 name=pagead2.googlesyndication.com
 add address=127.0.0.1 name=adservice.google.com
 add address=127.0.0.1 name=pagead2.googleadservices.com
 add address=127.0.0.1 name=afs.googlesyndication.com
-add address=127.0.0.1 name=stats.g.doubleclick.net
+
 add address=127.0.0.1 name=ad.doubleclick.net
 add address=127.0.0.1 name=static.doubleclick.net
 add address=127.0.0.1 name=m.doubleclick.net
@@ -9404,8 +9404,8 @@ add address=127.0.0.1 name=www.analytic-google.com
 add address=127.0.0.1 name=www.analytic-google.com
 
 
-add address=127.0.0.1 name=stats.g.doubleclick.net
-add address=127.0.0.1 name=stats.g.doubleclick.net
+
+
 add address=127.0.0.1 name=static.doubleclick.net
 add address=127.0.0.1 name=static.doubleclick.net
 add address=127.0.0.1 name=ssl.google-analytics.com
