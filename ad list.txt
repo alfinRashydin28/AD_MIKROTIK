@@ -9402,8 +9402,8 @@ add address=127.0.0.1 name=www.googleadservices.com
 add address=127.0.0.1 name=www.googleadservices.com
 add address=127.0.0.1 name=www.analytic-google.com
 add address=127.0.0.1 name=www.analytic-google.com
-add address=127.0.0.1 name=tpc.googlesyndication.com
-add address=127.0.0.1 name=tpc.googlesyndication.com
+
+
 add address=127.0.0.1 name=stats.g.doubleclick.net
 add address=127.0.0.1 name=stats.g.doubleclick.net
 add address=127.0.0.1 name=static.doubleclick.net
