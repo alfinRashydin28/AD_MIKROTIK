@@ -3568,7 +3568,7 @@ add address=127.0.0.1 name=zzhc.vnet.cn
 
 add address=127.0.0.1 name=www.googletagservices.com
 add address=127.0.0.1 name=www-googletagmanager.l.google.com
-add address=127.0.0.1 name=www-google-analytics.l.google.com
+
 add address=127.0.0.1 name=www.googleadservices.com
 add address=127.0.0.1 name=www.analytic-google.com
 add address=127.0.0.1 name=tpc.googlesyndication.com
