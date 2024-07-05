@@ -9365,7 +9365,6 @@ add address=127.0.0.1 name=dts.innovid.com
 add address=127.0.0.1 name=doubleclick.net
 add address=127.0.0.1 name=analytic-google.com
 add address=127.0.0.1 name=ad.youtube.com
-add address=127.0.0.1 name=adservice.google.com
 add address=127.0.0.1 name=ads.doubleclick.net
 add address=127.0.0.1 name=ad.mo.doubleclick.net
 add address=127.0.0.1 name=ad-g.doubleclick.net
@@ -25192,7 +25191,6 @@ add address=127.0.0.1 name=doubleclick.net
 add address=127.0.0.1 name=doubleclick.net
 add address=127.0.0.1 name=analytic-google.com
 add address=127.0.0.1 name=analytic-google.com
-add address=127.0.0.1 name=adservice.google.com
 add address=127.0.0.1 name=ads.doubleclick.net
 add address=127.0.0.1 name=ads.doubleclick.net
 add address=127.0.0.1 name=ad.mo.doubleclick.net
