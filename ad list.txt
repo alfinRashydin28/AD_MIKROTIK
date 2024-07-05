@@ -25172,8 +25172,7 @@ add address=127.0.0.1 name=pixel.moatads.com
 add address=127.0.0.1 name=pixel.moatads.com
 add address=127.0.0.1 name=pagead.l.doubleclick.net
 add address=127.0.0.1 name=pagead.l.doubleclick.net
-add address=127.0.0.1 name=pagead.googlesyndication.com
-add address=127.0.0.1 name=pagead.googlesyndication.com
+
 add address=127.0.0.1 name=pagead2.googlesyndication.com
 add address=127.0.0.1 name=pagead2.googlesyndication.com
 add address=127.0.0.1 name=pagead1.googlesyndication.com
