@@ -15418,8 +15418,6 @@ add address=127.0.0.1 name=r2.sn-4g5e6nle.googlevideo.com
 add address=127.0.0.1 name=r2---sn-4g5e6nl7.googlevideo.com
 add address=127.0.0.1 name=r2.sn-4g5e6nl7.googlevideo.com
 add address=127.0.0.1 name=r2---sn-4g5e6nez.googlevideo.com
-add address=127.0.0.1 name=r2.sn-4g5e6nez.googlevideo.com
-add address=127.0.0.1 name=r2---sn-4g5e6ney.googlevideo.com
 add address=127.0.0.1 name=r2.sn-4g5e6ney.googlevideo.com
 add address=127.0.0.1 name=r2---sn-4g5e6nes.googlevideo.com
 add address=127.0.0.1 name=r2.sn-4g5e6nes.googlevideo.com
