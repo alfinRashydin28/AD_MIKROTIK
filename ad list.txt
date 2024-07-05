@@ -3741,8 +3741,6 @@ add address=127.0.0.1 name=r3.sn-4g5e6nsr.googlevideo.com
 add address=127.0.0.1 name=r3---sn-4g5e6nsk.googlevideo.com
 add address=127.0.0.1 name=r3.sn-4g5e6nsk.googlevideo.com
 add address=127.0.0.1 name=r3---sn-4g5e6nle.googlevideo.com
-add address=127.0.0.1 name=r3---sn-4g5e6nle.googlevideo.com
-add address=127.0.0.1 name=r3.sn-4g5e6nle.googlevideo.com
 add address=127.0.0.1 name=r3.sn-4g5e6nle.googlevideo.com
 add address=127.0.0.1 name=r3---sn-4g5e6nld.googlevideo.com
 add address=127.0.0.1 name=r3.sn-4g5e6nld.googlevideo.com
