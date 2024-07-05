@@ -5396,8 +5396,6 @@ add address=127.0.0.1 name=r1.sn-4g5e6ney.googlevideo.com
 add address=127.0.0.1 name=r1---sn-4g5e6nes.googlevideo.com
 add address=127.0.0.1 name=r1.sn-4g5e6nes.googlevideo.com
 add address=127.0.0.1 name=r1---sn-4g5e6ne6.googlevideo.com
-add address=127.0.0.1 name=r1---sn-4g5e6ne6.googlevideo.com
-add address=127.0.0.1 name=r1.sn-4g5e6ne6.googlevideo.com
 add address=127.0.0.1 name=r1.sn-4g5e6ne6.googlevideo.com
 add address=127.0.0.1 name=r1---sn-4g57knzy.googlevideo.com
 add address=127.0.0.1 name=r1.sn-4g57knzy.googlevideo.com
@@ -17323,7 +17321,6 @@ add address=127.0.0.1 name=r1---sn-4g5e6ney.googlevideo.com
 add address=127.0.0.1 name=r1.sn-4g5e6ney.googlevideo.com
 add address=127.0.0.1 name=r1---sn-4g5e6nes.googlevideo.com
 add address=127.0.0.1 name=r1.sn-4g5e6nes.googlevideo.com
-add address=127.0.0.1 name=r1---sn-4g5e6ne6.googlevideo.com
 add address=127.0.0.1 name=r1.sn-4g5e6ne6.googlevideo.com
 add address=127.0.0.1 name=r1---sn-4g57knzy.googlevideo.com
 add address=127.0.0.1 name=r1.sn-4g57knzy.googlevideo.com
