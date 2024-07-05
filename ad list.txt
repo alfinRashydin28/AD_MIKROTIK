@@ -9368,8 +9368,6 @@ add address=127.0.0.1 name=ad.youtube.com
 add address=127.0.0.1 name=ads.doubleclick.net
 add address=127.0.0.1 name=ad.mo.doubleclick.net
 add address=127.0.0.1 name=ad-g.doubleclick.net
-add address=127.0.0.1 name=www.googleadservices.com
-add address=127.0.0.1 name=www.analytic-google.com
 
 
 
